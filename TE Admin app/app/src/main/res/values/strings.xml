@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TE Ambassador Admin</string>
+    
+    <string name="userName">Alex G Honey</string>
+    <string name="taskDate">40 Days Left</string>
+    <string name="status">Status</string>
+    <string name="taskStatus">Pending For Approval </string>
+    <string name="allotted">Allotted Task</string>
+    <string name="taskName">Climb a Tree</string>
+    <string name="accept">Accept</string>
+    <string name="reject">Reject</string>
+</resources>
